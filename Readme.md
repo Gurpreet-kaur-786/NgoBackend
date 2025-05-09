@@ -1,4 +1,4 @@
-PORT = Your Port
+##PORT = Your Port
 MONGO_DB ="Mongodb Url"
 DB_NAME = 'DB Name'
 SECRET = 'any secret for jsonwebtoken'
@@ -6,4 +6,4 @@ ADMIN_EMAIL = 'admin email'
 PASSWORD ="admin password'
 CLOUDINARY_CLOUD_NAME = 'cloudinary cloud name'
 CLOUDINARY_API_KEY = 'cloudinary cloud api key'
-CLOUDINARY_API_SECRET = 'cloudinary cloud api secert' 
+CLOUDINARY_API_SECRET = 'cloudinary cloud api secert' ##
