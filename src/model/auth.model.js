@@ -90,9 +90,6 @@ const authSchema = new Schema({
     }
 
 
-
-
-
 },{timestamps:true})
 
 const auth = mongoose.model('auth',authSchema)

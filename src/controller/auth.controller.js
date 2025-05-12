@@ -1,7 +1,6 @@
 import bcrypt from 'bcrypt';
 import auth from "../model/auth.model.js";
 import { createToken } from '../middleware/token.js';
-// import cloudinary from '../config/cloudniary.js'
 import validate from '../model/validate.model.js';
 import donerInfo from '../model/donerInfo.model.js';
 import cloudinary from '../config/cloudniary.js';
